@@ -1,0 +1,30 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "engines": {
+    "node": "12.x",
+    "npm": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Austin",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cushionking2/kadeem-bot.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/cushionking2/kadeem-bot/issues"
+  },
+  "homepage": "https://github.com/cushionking2/kadeem-bot#readme",
+  "description": ""
+}
